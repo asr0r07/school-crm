@@ -1,1 +1,1 @@
-# school-crm
+# school_crm
